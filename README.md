@@ -2,7 +2,6 @@
 
 A modern, responsive weather forecast web application built with **Next.js 13**, **TypeScript**, and **Tailwind CSS**. Get real-time weather updates and 5-day forecasts for cities worldwide.
 
-![Weather App Screenshot](public/screenshot.png) <!-- Replace with your actual screenshot path -->
 
 ---
 
@@ -19,7 +18,7 @@ A modern, responsive weather forecast web application built with **Next.js 13**,
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: [Next.js 13 (App Router)](https://nextjs.org/)
+- **Frontend**: [Next.js 15 (App Router)](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **State Management**: React Hooks
 - **Type Checking**: TypeScript
@@ -92,4 +91,9 @@ weather-forecast-app/
 ├── styles/                   # Global styles
 ├── .env.                     # Environment variables
 ├── next.config.js            # Next.js configuration
+```
+
+### Project Deployment
+```bash
+https://weather-app-assignment-blond.vercel.app/
 ```
